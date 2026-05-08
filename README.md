@@ -30,8 +30,3 @@ streamlit run app.py
 
 http://localhost:8501
 
-## Example Questions
-
-Which has the highest revenue?
-
-What is the average revenue?
